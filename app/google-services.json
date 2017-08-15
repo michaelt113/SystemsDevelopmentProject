@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1031927846004",
+    "firebase_url": "https://sdp-2017.firebaseio.com",
+    "project_id": "sdp-2017",
+    "storage_bucket": "sdp-2017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031927846004:android:23d2587f61f23280",
+        "android_client_info": {
+          "package_name": "com.example.mtrev.systemsdevelopmentproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031927846004-c5b4v97ltb220pkocutbnru5tkttnbbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvW-5y1JIzgOD-_LPQ5RwmRG-PB2s83W0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
